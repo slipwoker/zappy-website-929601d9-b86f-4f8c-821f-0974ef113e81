@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eldorado-gg-929601d9.zappy5.app/sitemap.xml
